@@ -1,3 +1,4 @@
-ieee-fraud-detection.zip
+.ipynb_checkpoints/
+*.zip
 data
 .DS_Store
